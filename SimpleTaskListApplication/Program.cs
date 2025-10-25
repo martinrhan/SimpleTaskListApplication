@@ -122,12 +122,6 @@ Command[] CommandArray = [
         UsageInfo = "DeleteTask <TaskName>"
     },
     new (){
-        Name = "SetTaskSortOrder",
-        Execute = (args) => {
-            Console.WriteLine("SetTaskSortOrder command is not implemented yet.");
-        },
-    },
-    new (){
         Name = "Help"
     }
     ];
