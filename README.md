@@ -1,0 +1,2 @@
+This project is a simple console application that does task management. It is not intended to be practically useful, just for showcase of technical ability.
+Since this is just a simple demonstration, I did not add user friendly details as they are not required. The commands are case sensitive and you input must by exactly matching. Moreover, all parameters must be explicitly typed in, no optionals, no defaults.
